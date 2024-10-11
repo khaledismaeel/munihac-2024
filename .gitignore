@@ -21,3 +21,7 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+
+# Files downloaded through the Haskell WASM meta repo
+# https://ghc.gitlab.haskell.org/ghc/doc/users_guide/wasm.html#setting-up-the-ghc-wasm-backend
+.ghc-wasm
